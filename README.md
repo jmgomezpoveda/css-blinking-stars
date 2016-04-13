@@ -1,7 +1,7 @@
 # css-blinking-stars
 Some blinking stars in CSS3 with fallback option
 
-Created by Jose Manuel Gómez Poveda for the <a href="nightearth.com">Night Earth</a> website.
+Created by **Jose Manuel Gómez Poveda** for the <a href="nightearth.com">Night Earth</a> website.
 
 To add stars to your website, just add the following lines to the head section:
 ```
@@ -11,7 +11,7 @@ To add stars to your website, just add the following lines to the head section:
 
 And the following line at the beginning of the body section:
 ```
-<div id="blinkingstars">&lt;/div>
+<div id="blinkingstars"></div>
 ```
 
 You must include the following files in your project (or embed their content):
