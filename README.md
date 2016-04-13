@@ -1,5 +1,5 @@
 # css-blinking-stars
-Some blinking stars in CSS3 with fallback option
+Some blinking stars in CSS3 gradients and animations, with a fallback option.
 
 Created by **Jose Manuel Gómez Poveda** for the <a href="nightearth.com">Night Earth</a> website.
 
